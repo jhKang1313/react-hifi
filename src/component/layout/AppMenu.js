@@ -14,7 +14,7 @@ const AppMenu = () => {
       </li>
       <li className="nav-item">
         <h6 className="text-white">CH02 JSX</h6>
-        <Link to="/ch02/exam01" className="nav-link text-warning">JSX</Link>
+        <Link to="/ch02/exam01" className="nav-link text-warning">Exam01Expressions</Link>
       </li>
       
     </ul>
